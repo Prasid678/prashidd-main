@@ -1,0 +1,266 @@
+[
+  {
+    "name": "Aarya Chaudary",
+    "email": "aarya.chaudary.bca076@kathford.edu.np",
+    "password": "aarya+chaudary+123@",
+    "batch": 2022,
+    "gender": "Female",
+    "interestedIn": "Arts"
+  },
+  {
+    "name": "Abisekh Dhakal",
+    "email": "abisekh.dhakal.bca076@kathford.edu.np",
+    "password": "abisekh+dhakal+123@",
+    "batch": 2021,
+    "gender": "Male",
+    "interestedIn": "Music"
+  },
+  {
+    "name": "Albeena Nakarmi",
+    "email": "albeena.nakarmi.bca076@kathford.edu.np",
+    "password": "albeena+nakarmi+123@",
+    "batch": 2020,
+    "gender": "Female",
+    "interestedIn": "Sports"
+  },
+  {
+    "name": "Alina Shrestha Gamal",
+    "email": "alina.shrestha.gamal.bca076@kathford.edu.np",
+    "password": "alina+shrestha+123@",
+    "batch": 2023,
+    "gender": "Female",
+    "interestedIn": "Arts"
+  },
+  {
+    "name": "Balika Thapa",
+    "email": "balika.thapa.bca076@kathford.edu.np",
+    "password": "balika+thapa+123@",
+    "batch": 2019,
+    "gender": "Female",
+    "interestedIn": "Music"
+  },
+  {
+    "name": "Bipin Giri",
+    "email": "bipin.giri.bca076@kathford.edu.np",
+    "password": "bipin+giri+123@",
+    "batch": 2022,
+    "gender": "Male",
+    "interestedIn": "Sports"
+  },
+  {
+    "name": "Bir B Uperkoti",
+    "email": "bir.b.uperkoti.bca076@kathford.edu.np",
+    "password": "bir+b+uperkoti+123@",
+    "batch": 2021,
+    "gender": "Male",
+    "interestedIn": "Arts"
+  },
+  {
+    "name": "Bishal Maharjan",
+    "email": "bishal.maharjan.bca076@kathford.edu.np",
+    "password": "bishal+maharjan+123@",
+    "batch": 2020,
+    "gender": "Male",
+    "interestedIn": "Music"
+  },
+  {
+    "name": "DeepAk Bhandari",
+    "email": "deepak.bhandari.bca076@kathford.edu.np",
+    "password": "deepak+bhandari+123@",
+    "batch": 2023,
+    "gender": "Male",
+    "interestedIn": "Sports"
+  },
+  {
+    "name": "Dikshita Subedi",
+    "email": "dikshita.subedi.bca076@kathford.edu.np",
+    "password": "dikshita+subedi+123@",
+    "batch": 2018,
+    "gender": "Female",
+    "interestedIn": "Arts"
+  },
+  {
+    "name": "Drikshna Nemkul",
+    "email": "drikshna.nemkul.bca076@kathford.edu.np",
+    "password": "drikshna+nemkul+123@",
+    "batch": 2022,
+    "gender": "Female",
+    "interestedIn": "Music"
+  },
+  {
+    "name": "Gagan Shrestha",
+    "email": "gagan.shrestha.bca076@kathford.edu.np",
+    "password": "gagan+shrestha+123@",
+    "batch": 2021,
+    "gender": "Male",
+    "interestedIn": "Sports"
+  },
+  {
+    "name": "Krisa Maharjan",
+    "email": "krisa.maharjan.bca076@kathford.edu.np",
+    "password": "krisa+maharjan+123@",
+    "batch": 2020,
+    "gender": "Female",
+    "interestedIn": "Arts"
+  },
+  {
+    "name": "Lokendra Gharti",
+    "email": "lokendra.gharti.bca076@kathford.edu.np",
+    "password": "lokendra+gharti+123@",
+    "batch": 2019,
+    "gender": "Male",
+    "interestedIn": "Music"
+  },
+  {
+    "name": "Lopsang Lama",
+    "email": "lopsang.lama.bca076@kathford.edu.np",
+    "password": "lopsang+lama+123@",
+    "batch": 2023,
+    "gender": "Male",
+    "interestedIn": "Sports"
+  },
+  {
+    "name": "Manish Thulung Rai",
+    "email": "manish.thulung.rai.bca076@kathford.edu.np",
+    "password": "manish+thulung+123@",
+    "batch": 2022,
+    "gender": "Male",
+    "interestedIn": "Arts"
+  },
+  {
+    "name": "Mini Sherpa",
+    "email": "mini.sherpa.bca076@kathford.edu.np",
+    "password": "mini+sherpa+123@",
+    "batch": 2021,
+    "gender": "Female",
+    "interestedIn": "Music"
+  },
+  {
+    "name": "Nalina Shrestha",
+    "email": "nalina.shrestha.bca076@kathford.edu.np",
+    "password": "nalina+shrestha+123@",
+    "batch": 2020,
+    "gender": "Female",
+    "interestedIn": "Sports"
+  },
+  {
+    "name": "Nikesh Shrestha",
+    "email": "nikesh.shrestha.bca076@kathford.edu.np",
+    "password": "nikesh+shrestha+123@",
+    "batch": 2023,
+    "gender": "Male",
+    "interestedIn": "Arts"
+  },
+  {
+    "name": "Prashiddha Basnet",
+    "email": "prashiddha.basnet.bca076@kathford.edu.np",
+    "password": "prashiddha+basnet+123@",
+    "batch": 2018,
+    "gender": "Female",
+    "interestedIn": "Music"
+  },
+  {
+    "name": "Prithak Nemkul",
+    "email": "prithak.nemkul.bca076@kathford.edu.np",
+    "password": "prithak+nemkul+123@",
+    "batch": 2022,
+    "gender": "Male",
+    "interestedIn": "Sports"
+  },
+  {
+    "name": "Rajib Tamang",
+    "email": "rajib.tamang.bca076@kathford.edu.np",
+    "password": "rajib+tamang+123@",
+    "batch": 2021,
+    "gender": "Male",
+    "interestedIn": "Arts"
+  },
+  {
+    "name": "Rohan Maharjan",
+    "email": "rohan.maharjan.bca076@kathford.edu.np",
+    "password": "rohan+maharjan+123@",
+    "batch": 2020,
+    "gender": "Male",
+    "interestedIn": "Music"
+  },
+  {
+    "name": "Ronex Shakya",
+    "email": "ronex.shakya.bca076@kathford.edu.np",
+    "password": "ronex+shakya+123@",
+    "batch": 2023,
+    "gender": "Male",
+    "interestedIn": "Sports"
+  },
+  {
+    "name": "Roshan Ghimire",
+    "email": "roshan.ghimire.bca076@kathford.edu.np",
+    "password": "roshan+ghimire+123@",
+    "batch": 2019,
+    "gender": "Male",
+    "interestedIn": "Arts"
+  },
+  {
+    "name": "Rosni Dhungana",
+    "email": "rosni.dhungana.bca076@kathford.edu.np",
+    "password": "rosni+dhungana+123@",
+    "batch": 2018,
+    "gender": "Female",
+    "interestedIn": "Music"
+  },
+  {
+    "name": "Sajan Tiwari",
+    "email": "sajan.tiwari.bca076@kathford.edu.np",
+    "password": "sajan+tiwari+123@",
+    "batch": 2022,
+    "gender": "Male",
+    "interestedIn": "Sports"
+  },
+  {
+    "name": "Shobik Maharjan",
+    "email": "shobik.maharjan.bca076@kathford.edu.np",
+    "password": "shobik+maharjan+123@",
+    "batch": 2021,
+    "gender": "Male",
+    "interestedIn": "Arts"
+  },
+  {
+    "name": "Sudarshan Magar",
+    "email": "sudarshan.magar.bca076@kathford.edu.np",
+    "password": "sudarshan+magar+123@",
+    "batch": 2020,
+    "gender": "Male",
+    "interestedIn": "Music"
+  },
+  {
+    "name": "Suüsàñ Awàle",
+    "email": "suusaan.awale.bca076@kathford.edu.np",
+    "password": "suusaan+awale+123@",
+    "batch": 2023,
+    "gender": "Female",
+    "interestedIn": "Arts"
+  },
+  {
+    "name": "Tenzing Lhomi",
+    "email": "tenzing.lhomi.bca076@kathford.edu.np",
+    "password": "tenzing+lhomi+123@",
+    "batch": 2022,
+    "gender": "Male",
+    "interestedIn": "Sports"
+  },
+  {
+    "name": "Tisha Manandhar",
+    "email": "tisha.manandhar.bca076@kathford.edu.np",
+    "password": "tisha+manandhar+123@",
+    "batch": 2021,
+    "gender": "Female",
+    "interestedIn": "Music"
+  },
+  {
+    "name": "Upasana Shakya",
+    "email": "upasana.shakya.bca076@kathford.edu.np",
+    "password": "upasana+shakya+123@",
+    "batch": 2020,
+    "gender": "Female",
+    "interestedIn": "Arts"
+  }
+]

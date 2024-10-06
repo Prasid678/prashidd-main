@@ -1,0 +1,14 @@
+/* .offcanvas{
+    max-height: 30px;
+    min-height: 30px;
+} */
+a{
+    letter-spacing: 1px;
+}
+.navBarKoLink ul li a{
+    color: red;
+    cursor: pointer;
+}
+.Navbar{
+    position: sticky;
+}
